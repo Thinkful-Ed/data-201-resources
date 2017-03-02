@@ -1,0 +1,13 @@
+cntry: categorical
+idno: categorical
+year: ratio
+tvtot: ordinal
+ppltrst: ordinal
+pplfair: ordinal
+pplhlp: ordinal
+happy: ordinal
+sclmeet: ordinal
+sclact: interval
+gndr: categorical
+agea: ratio
+partner: categorical
